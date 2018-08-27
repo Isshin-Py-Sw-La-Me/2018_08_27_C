@@ -8,5 +8,8 @@ int main(){
     c = 'A';
     printf("a=%d\n",a);
     printf("c=%c\n",c);
+    float d = 0.5;
+    printf("d=%f\n",d);
+
     return 0;
 }
